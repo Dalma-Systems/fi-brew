@@ -1,0 +1,13 @@
+/home/dteixeira/dalma/dev/FEATS/fibrew/src/broker/broker-api-base/src/main/java/com/dalma/broker/base/error/BaseExceptionError.java
+/home/dteixeira/dalma/dev/FEATS/fibrew/src/broker/broker-api-base/src/main/java/com/dalma/broker/base/error/ErrorCode.java
+/home/dteixeira/dalma/dev/FEATS/fibrew/src/broker/broker-api-base/src/main/java/com/dalma/broker/base/modelmapper/BrightModelMapper.java
+/home/dteixeira/dalma/dev/FEATS/fibrew/src/broker/broker-api-base/src/main/java/com/dalma/broker/base/error/ErrorInfo.java
+/home/dteixeira/dalma/dev/FEATS/fibrew/src/broker/broker-api-base/src/main/java/com/dalma/broker/base/ContextSource.java
+/home/dteixeira/dalma/dev/FEATS/fibrew/src/broker/broker-api-base/src/main/java/com/dalma/broker/base/controller/RestErrorController.java
+/home/dteixeira/dalma/dev/FEATS/fibrew/src/broker/broker-api-base/src/main/java/com/dalma/broker/base/controller/advice/ErrorHandlingControllerAdvice.java
+/home/dteixeira/dalma/dev/FEATS/fibrew/src/broker/broker-api-base/src/main/java/com/dalma/broker/base/service/context/RequestLogContext.java
+/home/dteixeira/dalma/dev/FEATS/fibrew/src/broker/broker-api-base/src/main/java/com/dalma/broker/base/error/exception/RestResponseException.java
+/home/dteixeira/dalma/dev/FEATS/fibrew/src/broker/broker-api-base/src/main/java/com/dalma/broker/base/modelmapper/MapperPreProcessor.java
+/home/dteixeira/dalma/dev/FEATS/fibrew/src/broker/broker-api-base/src/main/java/com/dalma/broker/base/web/filter/SimpleRequestLogContextFilter.java
+/home/dteixeira/dalma/dev/FEATS/fibrew/src/broker/broker-api-base/src/main/java/com/dalma/broker/base/config/ModelMapperConfiguration.java
+/home/dteixeira/dalma/dev/FEATS/fibrew/src/broker/broker-api-base/src/main/java/com/dalma/broker/base/EnableRequestLogFilter.java

@@ -1,0 +1,27 @@
+image: openjdk:11-jdk-slim
+
+variables:
+  MAVEN_OPTS: "-Dmaven.repo.local=${CI_PROJECT_DIR}/.m2/repository"
+
+before_script:
+  - mkdir -p ~/.m2/
+  - echo "$MVN_SETTINGS" > ~/.m2/settings.xml
+
+stages:
+  - build
+  - deploy
+
+build:
+  stage: build
+  script:
+    - ./mvnw clean install -U -Psonar -Dsonar.host.url=$SONAR_URL -Dsonar.login=$SONAR_TOKEN
+  cache:
+    key: "$CI_JOB_NAME"
+    paths:
+      - .m2/
+
+Deploy to nexus repository:
+  stage: deploy
+  script:
+    - ./mvnw clean deploy
+
