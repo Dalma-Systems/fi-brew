@@ -37,4 +37,4 @@ An example of the usage of the system can be found in the corresponding section 
 All documentation is available in `docs` folder. Check [documentation index](docs/index.md) to get all the information about the system architecture and API, and also about how to install and test the application.
 
 ## License
-[Apache](LICENSE) © 2021
+[Apache](LICENSE) © 2021 Dalma Systems

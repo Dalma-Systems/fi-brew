@@ -1,6 +1,6 @@
-site_name: CoFFEE for FEATS
-repo_url: https://github.com/ramp-eu/CoFFEE.git
-site_description: FEATS CoFFEE Documentation
+site_name: FI-BREW for FEATS
+repo_url: https://github.com/Dalma-Systems/fi-brew
+site_description: FEATS FI-BREW Documentation
 docs_dir: docs
 theme: readthedocs
 pages:

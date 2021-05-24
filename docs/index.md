@@ -1,13 +1,13 @@
-# Welcome to CoFFEE
+# Welcome to FI-BREW
 
-CoFFEE is a component of FEATS system, a DIH^2 project.
+FI-BREW is a component of FEATS (FIWARE-Enabled Autonomous Transport System), a DIH<sup>2</sup> project.
 
 ## Guide
 
-You should start by reading the project [Architecture](architecture.md) and then the [API](api.md) exposed by CoFFEE.
+You should start by reading the project [Architecture](architecture.md) and then the [API](api.md) exposed by FI-BREW.
 After that you should follow [Installation Guide](installationguide.md) steps.
 
-At this point you have installed all the required tools and compiled CoFFEE source code. Jump to [Getting Started](getting-started.md) section to start all the components (docker images) required to execute CoFFEE.
+At this point you have installed all the required tools and compiled FI-BREW source code. Jump to [Getting Started](getting-started.md) section to start all the components (docker images) required to execute FI-BREW.
 
 Finally go to [User Manual](usermanual.md) section to know how to test the application.
 
