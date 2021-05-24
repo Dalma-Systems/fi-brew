@@ -1,9 +1,9 @@
 site_name: FI-BREW for FEATS
 repo_url: https://github.com/Dalma-Systems/fi-brew
 site_description: FEATS FI-BREW Documentation
-docs_dir: docs
+#docs_dir: docs
 theme: readthedocs
-pages:
+nav:
   - Home: 'index.md'
   - 'User & Programmers Manual':
     - 'Architecture' : 'architecture.md'
